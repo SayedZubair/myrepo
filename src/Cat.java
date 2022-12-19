@@ -3,5 +3,6 @@ public class Cat {
         System.out.println("nothing to add to the cat class");
         System.out.println("cats are cute too");
         System.out.println("i love calm cats");
+        System.out.println("i love my animals");
     }
 }
